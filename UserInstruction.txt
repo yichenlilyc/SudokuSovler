@@ -1,0 +1,5 @@
+Run the “sudokuSolver.py”, input the file name (including “.txt”,for example, to input the file “sudoku1.txt”, just input “sudoku1.txt” when asked). After initialization, input “1” or “2” according to the instruction in the program. 
+
+The file “sudoku1.txt” “sudoku2.txt” are test files for 3*3 sudoku, the file “sudoku3.txt” is the test file for 4*4 sudoku.
+
+Put the test files and the python files in the same directory before running the program.
